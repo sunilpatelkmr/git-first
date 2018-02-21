@@ -1,3 +1,0 @@
-For Revert test
-
-Added another line.
